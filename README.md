@@ -54,3 +54,5 @@ Comments
 
 ## Post-Project Thoughts
 
+That was way easier than I thought...
+Good practice though.
