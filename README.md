@@ -2,11 +2,17 @@
 
 The goal of this project is to put into practice modeling data similarly to [Reddit](https://www.reddit.com).
 
+Take not that there will be no front-end implementation, just a back-end implementation!
+
 This is a project from [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record).
 
 ## Pre-Project Thoughts
 
-I have done a lot of reading on relevant material. However, it is very difficult to absorb documentation all at once. I suppose that's the way it is.
+I have done a lot of reading on relevant material. 
+
+However, it is very difficult to absorb documentation all at once. 
+
+I suppose that's the way it is.
 
 ### Data Models
 
@@ -24,6 +30,8 @@ Users
 
 Posts
 	Attributes:
+		title: string
+			validation: presence, length
 		link: string
 			validation: presence
 
