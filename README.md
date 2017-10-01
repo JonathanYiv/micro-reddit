@@ -2,7 +2,7 @@
 
 The goal of this project is to put into practice modeling data similarly to [Reddit](https://www.reddit.com).
 
-Take not that there will be no front-end implementation, just a back-end implementation!
+Take note that there will be no front-end implementation, just a back-end implementation!
 
 This is a project from [The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails/lessons/building-with-active-record).
 
